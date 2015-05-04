@@ -1,0 +1,22 @@
+\contentsline {chapter}{Declaration of Authorship}{i}{dummy.1}
+\vspace {1em}
+\contentsline {chapter}{Abstract}{iii}{dummy.2}
+\vspace {1em}
+\contentsline {chapter}{Acknowledgements}{iv}{dummy.3}
+\vspace {1em}
+\contentsline {chapter}{Contents}{v}{dummy.4}
+\contentsline {chapter}{List of Figures}{vi}{dummy.6}
+\contentsline {chapter}{List of Tables}{vii}{dummy.8}
+\contentsline {chapter}{Abbreviations}{viii}{dummy.10}
+\contentsline {chapter}{Physical Constants}{ix}{dummy.13}
+\contentsline {chapter}{Symbols}{x}{dummy.16}
+\vspace {2em}
+\contentsline {chapter}{Introduction}{1}{chapter*.19}
+\contentsline {chapter}{\numberline {1}Modern Cosmology overview}{2}{chapter.20}
+\contentsline {section}{\numberline {1.1}Introduction}{2}{section.21}
+\contentsline {subsection}{\numberline {1.1.1}Subsection 1}{2}{subsection.22}
+\contentsline {subsection}{\numberline {1.1.2}Subsection 2}{2}{subsection.23}
+\contentsline {section}{\numberline {1.2}Main Section 2}{3}{section.24}
+\vspace {2em}
+\contentsline {chapter}{\numberline {A}Appendix Title Here}{4}{appendix.25}
+\vspace {2em}
