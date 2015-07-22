@@ -184,7 +184,7 @@
 %	defined as \examname above so you cite it as \examname
 %----------------------------------------------------------------------------------------
 
-\thesistitle{Cross-correlations in cosmology: Planck and BOSS} % Your thesis title - this is used in the title and abstract
+\thesistitle{Corrélations entre lentillage gravitationnel du fonds diffus cosmologique et traceurs de matière} % Your thesis title - this is used in the title and abstract
 %-------------------------------------------------  
 \supervisor{Dr. Eric  \textsc{Aubourg}} % You supervisor's name - this is used in the title page
 %-------------------------------------------------   
