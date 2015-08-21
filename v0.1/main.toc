@@ -81,41 +81,76 @@
 \contentsline {section}{\numberline {5.2}Collaboration SDSS-III}{10}{section.85}
 \contentsline {subsection}{\numberline {5.2.1}BOSS}{10}{subsection.86}
 \contentsline {subsection}{\numberline {5.2.2}Autres relev\IeC {\'e}s}{10}{subsection.87}
-\contentsline {chapter}{\numberline {6}Donn\IeC {\'e}es utilis\IeC {\'e}es}{11}{chapter.88}
-\contentsline {section}{\numberline {6.1}Carte de convergence $\kappa $}{11}{section.89}
-\contentsline {section}{\numberline {6.2}Relev\IeC {\'e}s de galaxies}{11}{section.90}
-\contentsline {subsection}{\numberline {6.2.1}NVSS}{11}{subsection.91}
-\contentsline {subsection}{\numberline {6.2.2}Lowz et CMASS}{11}{subsection.92}
-\contentsline {section}{\numberline {6.3}Quasars de BOSS}{11}{section.93}
-\contentsline {section}{\numberline {6.4}For\IeC {\^e}ts Lyman-$\alpha $}{11}{section.94}
-\contentsline {section}{\numberline {6.5}(Sources X)}{11}{section.95}
-\contentsline {chapter}{\numberline {7}M\IeC {\'e}thodologie}{12}{chapter.96}
-\contentsline {section}{\numberline {7.1}Analyses}{12}{section.97}
-\contentsline {subsection}{\numberline {7.1.1}Rotations de ciel}{12}{subsection.98}
-\contentsline {subsubsection}{\numberline {7.1.1.1}Relev\IeC {\'e}s de galaxies}{12}{subsubsection.99}
-\contentsline {subsection}{\numberline {7.1.2}Stacking}{12}{subsection.100}
-\contentsline {subsubsection}{\numberline {7.1.2.1}Relev\IeC {\'e}s de galaxies}{12}{subsubsection.101}
-\contentsline {subsubsection}{\numberline {7.1.2.2}For\IeC {\^e}t Lyman-$\alpha $}{12}{subsubsection.102}
-\contentsline {subsection}{\numberline {7.1.3}Spectres crois\IeC {\'e}s de puissance angulaire}{12}{subsection.103}
-\contentsline {section}{\numberline {7.2}Validations}{12}{section.104}
-\contentsline {subsection}{\numberline {7.2.1}Simulations}{12}{subsection.105}
-\contentsline {subsection}{\numberline {7.2.2}Hypoth\IeC {\`e}se nulle}{12}{subsection.106}
-\contentsline {chapter}{\numberline {8}R\IeC {\'e}sultats}{13}{chapter.107}
-\contentsline {section}{\numberline {8.1}D\IeC {\'e}tection de signal}{13}{section.108}
-\contentsline {subsection}{\numberline {8.1.1}Lensing et relev\IeC {\'e}s}{13}{subsection.109}
-\contentsline {subsection}{\numberline {8.1.2}Lensing et QSO}{13}{subsection.110}
-\contentsline {subsection}{\numberline {8.1.3}Lensing et for\IeC {\^e}ts Lyman-$\alpha $}{13}{subsection.111}
-\contentsline {section}{\numberline {8.2}Estimation de param\IeC {\`e}tres}{13}{section.112}
-\contentsline {subsection}{\numberline {8.2.1}Fit de spectres th\IeC {\'e}oriques}{13}{subsection.113}
-\contentsline {subsection}{\numberline {8.2.2}Estimation de biais de galaxies}{13}{subsection.114}
-\contentsline {chapter}{\numberline {9}Conclusions}{14}{chapter.115}
-\contentsline {section}{\numberline {9.1}R\IeC {\'e}capitulatif}{14}{section.116}
-\contentsline {section}{\numberline {9.2}Prospective}{14}{section.117}
-\contentsline {subsection}{\numberline {9.2.1}LSS}{14}{subsection.118}
-\contentsline {subsection}{\numberline {9.2.2}Euclid}{14}{subsection.119}
-\contentsline {subsection}{\numberline {9.2.3}SKA}{14}{subsection.120}
-\contentsline {subsection}{\numberline {9.2.4}WEAVE}{14}{subsection.121}
-\contentsline {subsection}{\numberline {9.2.5}Statistiques d'ordre sup\IeC {\'e}rieur}{14}{subsection.122}
+\contentsline {chapter}{\numberline {6}Corr\IeC {\'e}lation avec catalogues de galaxies et de quasars}{11}{chapter.88}
+\contentsline {section}{\numberline {6.1}Donn\IeC {\'e}es utilis\IeC {\'e}es}{12}{section.89}
+\contentsline {subsection}{\numberline {6.1.1}Lensing du CMB}{12}{subsection.90}
+\contentsline {subsection}{\numberline {6.1.2}NVSS}{12}{subsection.91}
+\contentsline {subsection}{\numberline {6.1.3}Lowz et CMASS}{12}{subsection.92}
+\contentsline {subsection}{\numberline {6.1.4}Quasars de BOSS}{12}{subsection.93}
+\contentsline {section}{\numberline {6.2}M\IeC {\'e}thodologie}{12}{section.94}
+\contentsline {subsection}{\numberline {6.2.1}Stacking}{12}{subsection.95}
+\contentsline {subsection}{\numberline {6.2.2}Spectres angulaires}{12}{subsection.96}
+\contentsline {section}{\numberline {6.3}Validation}{12}{section.97}
+\contentsline {subsection}{\numberline {6.3.1}Simulation}{12}{subsection.98}
+\contentsline {subsection}{\numberline {6.3.2}Null test}{12}{subsection.99}
+\contentsline {section}{\numberline {6.4}R\IeC {\'e}sultats exp\IeC {\'e}rimentaux}{12}{section.100}
+\contentsline {subsection}{\numberline {6.4.1}Lensing vs NVSS}{12}{subsection.101}
+\contentsline {subsection}{\numberline {6.4.2}Lensing vs Lowz et CMASS}{12}{subsection.102}
+\contentsline {subsection}{\numberline {6.4.3}Lensing vs Quasars de BOSS}{12}{subsection.103}
+\contentsline {section}{\numberline {6.5}Estimation de param\IeC {\`e}tres}{12}{section.104}
+\contentsline {subsection}{\numberline {6.5.1}Spectres angulaires th\IeC {\'e}oriques}{12}{subsection.105}
+\contentsline {subsection}{\numberline {6.5.2}R\IeC {\'e}sultats}{12}{subsection.106}
+\contentsline {chapter}{\numberline {7}Corr\IeC {\'e}lation avec les for\IeC {\^e}ts Lyman-alpha}{13}{chapter.107}
+\contentsline {section}{\numberline {7.1}Donn\IeC {\'e}es utilis\IeC {\'e}es}{13}{section.108}
+\contentsline {subsection}{\numberline {7.1.1}Lensing du CMB}{13}{subsection.109}
+\contentsline {subsection}{\numberline {7.1.2}For\IeC {\^e}t Lyman-alpha}{13}{subsection.110}
+\contentsline {section}{\numberline {7.2}M\IeC {\'e}thodologies}{13}{section.111}
+\contentsline {subsection}{\numberline {7.2.1}Scatterplot}{13}{subsection.112}
+\contentsline {subsection}{\numberline {7.2.2}Rotations de ciel}{13}{subsection.113}
+\contentsline {subsection}{\numberline {7.2.3}Stacking}{14}{subsection.114}
+\contentsline {subsubsection}{\numberline {7.2.3.1}Description}{14}{subsubsection.115}
+\contentsline {subsubsection}{\numberline {7.2.3.2}Validation - Simulations}{14}{subsubsection.116}
+\contentsline {subsubsection}{\numberline {7.2.3.3}Validation - Null test}{14}{subsubsection.117}
+\contentsline {subsection}{\numberline {7.2.4}Spectres angulaires}{14}{subsection.118}
+\contentsline {subsubsection}{\numberline {7.2.4.1}Description}{14}{subsubsection.119}
+\contentsline {subsubsection}{\numberline {7.2.4.2}Validation - Simulations}{14}{subsubsection.120}
+\contentsline {subsubsection}{\numberline {7.2.4.3}Validation - Null test}{14}{subsubsection.121}
+\contentsline {section}{\numberline {7.3}R\IeC {\'e}sultats exp\IeC {\'e}rimentaux}{14}{section.122}
+\contentsline {subsection}{\numberline {7.3.1}Stacking}{14}{subsection.123}
+\contentsline {subsection}{\numberline {7.3.2}Spectres angulaires}{14}{subsection.124}
+\contentsline {section}{\numberline {7.4}Estimation de param\IeC {\`e}tres}{14}{section.125}
+\contentsline {subsection}{\numberline {7.4.1}Fonction de corr\IeC {\'e}lation angulaire th\IeC {\'e}orique}{14}{subsection.126}
+\contentsline {subsection}{\numberline {7.4.2}Spectres angulaires th\IeC {\'e}oriques}{14}{subsection.127}
+\contentsline {subsection}{\numberline {7.4.3}R\IeC {\'e}sultats}{14}{subsection.128}
+\contentsline {chapter}{\numberline {8}Corr\IeC {\'e}lations avec sources X (BONUS !)}{15}{chapter.129}
+\contentsline {section}{\numberline {8.1}Donn\IeC {\'e}es utilis\IeC {\'e}es}{15}{section.130}
+\contentsline {subsection}{\numberline {8.1.1}Sources X XMM-Chandra}{15}{subsection.131}
+\contentsline {section}{\numberline {8.2}M\IeC {\'e}thodologies}{15}{section.132}
+\contentsline {subsection}{\numberline {8.2.1}Scatterplot}{15}{subsection.133}
+\contentsline {subsection}{\numberline {8.2.2}Rotations de ciel}{15}{subsection.134}
+\contentsline {subsection}{\numberline {8.2.3}Stacking}{16}{subsection.135}
+\contentsline {subsubsection}{\numberline {8.2.3.1}Description}{16}{subsubsection.136}
+\contentsline {subsubsection}{\numberline {8.2.3.2}Validation - Simulations}{16}{subsubsection.137}
+\contentsline {subsubsection}{\numberline {8.2.3.3}Validation - Null test}{16}{subsubsection.138}
+\contentsline {subsection}{\numberline {8.2.4}Spectres angulaires}{16}{subsection.139}
+\contentsline {subsubsection}{\numberline {8.2.4.1}Description}{16}{subsubsection.140}
+\contentsline {subsubsection}{\numberline {8.2.4.2}Validation - Simulations}{16}{subsubsection.141}
+\contentsline {subsubsection}{\numberline {8.2.4.3}Validation - Null test}{16}{subsubsection.142}
+\contentsline {section}{\numberline {8.3}R\IeC {\'e}sultats exp\IeC {\'e}rimentaux}{16}{section.143}
+\contentsline {subsection}{\numberline {8.3.1}Stacking}{16}{subsection.144}
+\contentsline {subsection}{\numberline {8.3.2}Spectres angulaires}{16}{subsection.145}
+\contentsline {section}{\numberline {8.4}Estimation de param\IeC {\`e}tres}{16}{section.146}
+\contentsline {subsection}{\numberline {8.4.1}Fonction de corr\IeC {\'e}lation angulaire th\IeC {\'e}orique}{16}{subsection.147}
+\contentsline {subsection}{\numberline {8.4.2}Spectres angulaires th\IeC {\'e}oriques}{16}{subsection.148}
+\contentsline {subsection}{\numberline {8.4.3}R\IeC {\'e}sultats}{16}{subsection.149}
+\contentsline {chapter}{\numberline {9}Conclusions}{17}{chapter.150}
+\contentsline {section}{\numberline {9.1}R\IeC {\'e}capitulatif}{17}{section.151}
+\contentsline {section}{\numberline {9.2}Prospective}{17}{section.152}
+\contentsline {subsection}{\numberline {9.2.1}LSS}{17}{subsection.153}
+\contentsline {subsection}{\numberline {9.2.2}Euclid}{17}{subsection.154}
+\contentsline {subsection}{\numberline {9.2.3}SKA}{17}{subsection.155}
+\contentsline {subsection}{\numberline {9.2.4}WEAVE}{17}{subsection.156}
+\contentsline {subsection}{\numberline {9.2.5}Statistiques d'ordre sup\IeC {\'e}rieur}{17}{subsection.157}
 \vspace {2em}
-\contentsline {chapter}{\numberline {A}Appendix Title Here}{15}{appendix.123}
+\contentsline {chapter}{\numberline {A}Appendix Title Here}{18}{appendix.158}
 \vspace {2em}
