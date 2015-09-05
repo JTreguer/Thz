@@ -13,9 +13,9 @@ Dans cette section, nous précisons les données utilisées pour les analyses et
 
 \subsection{Lensing du CMB}
 
-Nous avons utilisé la carte du lensing de Planck version 2 (REF). Contrairement à la version 1 qui contenait le potentiel de lensing, la version 2 fournit directement  la convergence $\kappa$ sous forme d'une carte au format HEALPIX à haute résolution (nside = 2056).
+Nous avons utilisé la carte du lensing de Planck version 2 (REF). Contrairement à la version 1 qui contenait le potentiel de lensing, la version 2 fournit directement (trop forte Mariana) la convergence $\kappa$ sous forme d'une carte au format HEALPIX à haute résolution (nside = 2056).
 
-La carte de lensing n'est pas une observation directe, elle est produite à partir de la carte de température du CMB de Planck. Il s'agit d'un estimateur du maximum de vraisemblance tenant compte des non-gaussianités induites par le champ de déflection sur le champ de température.
+La carte de lensing n'est pas une observation directe, elle est produite à partir de la carte de température du CMB de Planck. Il s'agit d'un estimateur du maximum de vraisemblance tenant compte des non-gaussianités induites par le champ de déflection (VERIFIER LE TERME) sur le champ de température.
 
 
 PRECISER FRACTION DE CIEL, masque utilisé et en 2 mots la méthodologie
@@ -31,7 +31,10 @@ Instrument, format, nombre d'échantillons, indicateurs de qualité
 \section{Méthodologie}
 \subsection{Stacking}
 
-L
+Nous avons utilisé dans un premier temps une technique très simple permettant de mettre en évidence l'existence d'une corrélation spatiale entre d'une part la carte de lensing et d'autre part la présence de galaxies ou de quasars. Cette technique appelée stacking (de l'anglais \textit{to stack}, empiler) consiste à fabriquer une image en empilant des portions de cartes du ciel en des points précis. Dans notre cas, nous avons extrait des morceaux de la carte de lensing de taille fixe (des "carrés" de 4 degrés sur 4 degrés) centrés sur des galaxies ou des quasars répertoriés dans les catalogues disponibles. Nous avons pris soin d'éliminer les structures tombant dans des zones masquées de la carte de lensing. De plus nous avons appliqué des rotations aléatoires d'un angle multiple d'un quart de tour avant sommation des images afin d'éliminer des effets de corrélation spatiale induite par la proximité de galaxies ou de quasars dans les morceaux de ciel ainsi prélevés.
+
+En figure X nous avons choisi un exemple d'usage du stacking (ref Y) qui met en évidence la corrélation entre le lensing du CMB et (VOIR ARTICLE)
+
 
 \subsection{Spectres angulaires}
 

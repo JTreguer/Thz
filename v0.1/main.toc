@@ -82,9 +82,9 @@
 \contentsline {subsection}{\numberline {5.2.1}BOSS}{10}{subsection.86}
 \contentsline {subsection}{\numberline {5.2.2}Autres relev\IeC {\'e}s}{10}{subsection.87}
 \contentsline {chapter}{\numberline {6}Corr\IeC {\'e}lation avec catalogues de galaxies et de quasars}{11}{chapter.88}
-\contentsline {section}{\numberline {6.1}Donn\IeC {\'e}es utilis\IeC {\'e}es}{12}{section.89}
-\contentsline {subsection}{\numberline {6.1.1}Lensing du CMB}{12}{subsection.90}
-\contentsline {subsection}{\numberline {6.1.2}NVSS}{12}{subsection.91}
+\contentsline {section}{\numberline {6.1}Donn\IeC {\'e}es utilis\IeC {\'e}es}{11}{section.89}
+\contentsline {subsection}{\numberline {6.1.1}Lensing du CMB}{11}{subsection.90}
+\contentsline {subsection}{\numberline {6.1.2}NVSS}{11}{subsection.91}
 \contentsline {subsection}{\numberline {6.1.3}Lowz et CMASS}{12}{subsection.92}
 \contentsline {subsection}{\numberline {6.1.4}Quasars de BOSS}{12}{subsection.93}
 \contentsline {section}{\numberline {6.2}M\IeC {\'e}thodologie}{12}{section.94}

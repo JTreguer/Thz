@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.6.17)  21 AUG 2015 18:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.6.17)  26 AUG 2015 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -995,9 +995,9 @@ Chapitre 6.
 ------------------------------------------------------------------------------
  6 Corr\IeC {\'e}lation avec catalogues de galaxies et de quasars
 ------------------------------------------------------------------------------
-) (./Chapters/Chapter7.tex [11
+[11
 
-] [12]
+]) (./Chapters/Chapter7.tex [12]
 Chapitre 7.
 ------------------------------------------------------------------------------
  7 Corr\IeC {\'e}lation avec les for\IeC {\^e}ts Lyman-alpha
@@ -1061,7 +1061,7 @@ l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on main.pdf (33 pages, 216962 bytes).
+Output written on main.pdf (33 pages, 218114 bytes).
 PDF statistics:
  1014 PDF objects out of 1200 (max. 8388607)
  955 compressed objects within 10 object streams
